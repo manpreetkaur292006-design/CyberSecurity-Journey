@@ -36,9 +36,7 @@
 **Synatax :** man <Command_name>
 **Example :** man whoami, man id
 
-
 **Note* : Each user typically has a "home directory" represented by ~.**
-
 
 ### pwd
 Full form : Print working directory
